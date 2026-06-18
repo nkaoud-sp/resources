@@ -1,0 +1,24 @@
+{
+  "classes": [
+    "car",
+    "no_car"
+  ],
+  "class_to_idx": {
+    "car": 0,
+    "no_car": 1
+  },
+  "res_width": 320,
+  "res_height": 128,
+  "left_crop_px": 90,
+  "crop_mode": "remove_left_keep_rest",
+  "normalization_mean": [
+    0.485,
+    0.456,
+    0.406
+  ],
+  "normalization_std": [
+    0.229,
+    0.224,
+    0.225
+  ]
+}
