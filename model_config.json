@@ -58,7 +58,7 @@
       "sides": [
         "right"
       ],
-      "mirror_left": true,
+      "mirror_left": false,
       "normalization_mean": [
         0.485,
         0.456,
